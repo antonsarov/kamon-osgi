@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="lib/kamon-log-reporter_2.11-0.4.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/kamon-core_2.11-0.4.0.jar" sourcepath="lib/kamon-core_2.11-0.4.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/aspectjweaver-1.8.5.jar"/>
+	<classpathentry kind="lib" path="lib/kamon-akka_2.11-0.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/kamon-scala_2.11-0.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/HdrHistogram-2.1.4.jar"/>
+	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

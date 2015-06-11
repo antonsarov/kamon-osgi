@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: KamonTest
+Bundle-SymbolicName: KamonTest
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: kamontest.Activator
+Require-Bundle: org.eclipse.core.runtime,
+ extKamon;bundle-version="1.0.0",
+ com.entimice.ext.typesafe.akka,
+ com.entimice.fnd.scice.commons,
+ com.entimice.fnd.scice.config.rt,
+ org.scala-lang.scala-library
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-ActivationPolicy: lazy
